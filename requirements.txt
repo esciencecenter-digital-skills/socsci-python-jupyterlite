@@ -24,4 +24,8 @@ ipyleaflet
 matplotlib
 numpy
 pandas
-seaborn[stats]
+seaborn
+
+# Optional seaborn requirements
+scipy>=1.7
+statsmodels>=0.12
